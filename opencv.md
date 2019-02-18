@@ -6,7 +6,7 @@ The purpose of this team is to help computers to understand the world as we see 
 
 ## Technologies
 
-In this project we are using C++ to work with the OpenCV library. First the apprenties learn the basics of image processing and basic sorting algorithms. Later they start object detection (like circles and simple shapes). As they move on they will use Tesseract (OCR) for text recognition. With this the goal is to detect and read speed limit sings.
+In this project we are using C++ to work with the OpenCV library. First the apprentices learn the basics of image processing and basic sorting algorithms. Later they start object detection (like circles and simple shapes). As they move on they will use Tesseract (OCR) for text recognition. With this the goal is to detect and read speed limit sings.
 
  -  OpenCV
  -  SQLite

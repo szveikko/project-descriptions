@@ -10,8 +10,8 @@ The project has an already existing Android frontend, which handles the authenti
 In this project the apprentices are using Spring to work with the Google Calendar API. First they build the basics for the application and for storing the data in a MySQL database. After that they create the necessary endpoints, through which the communication between the Android frontend and the backend happens. Later they implement the authorization and communication with the Google Calendar API, so we can manipulate the calendars and their data - including events and sharing options.
 
 - Google Calendar API
-- Java
-- MySQL and Flyway for database migration
+- SpringBoot
+- MySQL
+- Flyway for database migration
 - Mockito mock framework for unit testing
 - MockMVC for integration testing
-    

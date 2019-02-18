@@ -11,7 +11,7 @@ The purpose of this team is to create a strategy game based on the logic of [Tra
 In this project we are using React for the frontend, and Node.JS for the backend. First the apprentices learn the basics of React-Redux, Saga Middleware for the frontend part, and Mongoose at the backend, to easily handeling MongoDB data. Later they start testing everything both for the backend and the frontend.
 
 - Node.JS backend
-	- Express
+  - Express
   - Mongoose
   - MongoDB
   - Mocha

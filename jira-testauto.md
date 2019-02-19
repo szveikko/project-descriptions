@@ -5,7 +5,7 @@ The purpose of this team is to check an Jira software's current configuration. W
 The team members get a deeper knowedge in Jira and meet with every existing webelement. We also create load test for this application and get familiar with Katalon Studio testingtool. 
 
 ## Technologies
-In this project we are using java and JUnit to work with Selenium framework. First the apprenties learn the basics of webelement location and how to interact with them. 
+In this project we are using java and JUnit to work with Selenium framework. First the apprentices learn the basics of webelement location and how to interact with them. 
 
 - Java
 - Selenium

@@ -13,9 +13,9 @@ These are currently are administered in huge google spreadsheets, the goal is to
  - JPA
  - MySQL
  - Modelmapper
- - Circle Ci
+ - CircleCI
  - Gradle
- - Google Autchentication
+ - Google Authentication
 
 ## Main features
 

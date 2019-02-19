@@ -13,13 +13,13 @@ These are currently are administered in huge google spreadsheets, the goal is to
  - JPA
  - MySQL
  - Modelmapper
- - Circle Ci
+ - CircleCI
  - Gradle
- - Google Autchentication
+ - Google Authentication
 
 ## Main features
 
 - Create new users and badges
 - Track the levels of the current users
 - Propose level-up and send notifications to the badge-holders about it
-- Administrative fonctions for the approval workflow and the badge level management
+- Administrative functions for the approval workflow and the badge level management

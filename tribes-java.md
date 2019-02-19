@@ -1,4 +1,4 @@
-y# Tribes - Spring Backend
+# Tribes - Spring Backend
 
 ## Description
 
@@ -6,9 +6,9 @@ The purpose of this team is to create a strategy game based on the logic of [Tra
 
 ## Technologies
 
-In this project the apprentices basically are using Spring Framework. First they build the basics of the application and create connection with MySQL database. They use Flyway for the database migration, and make the authentication and authorization flow based on Spring Security with JWT. After implementing the game logic,they test the whole service layer, deploy the API, and make the connection with the frontend.
+In this project the apprentices basically are using SpringBoot Framework. First they build the basics of the application and create connection with MySQL database. They use Flyway for the database migration, and make the authentication and authorization flow based on Spring Security with JWT. After implementing the game logic,they test the whole service layer, deploy the API, and make the connection with the frontend.
 
-- Spring
+- SpringBoot
 - Gradle
 - JPA
 - MySQL

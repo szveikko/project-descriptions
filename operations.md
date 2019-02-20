@@ -6,6 +6,10 @@ The Operations team is responsible for providing tools and infrastructure to all
 
 ## Technologies
 
+The project starts with a 0th week mini exercise in which the apprentices have to containerize a web application with database connected and deploy it manually to *AWS Elastic Beanstalk*. 
+In the upcoming weeks, building on this basis they gradually start using *docker-compose* and *EC2* for deployment of the applications. From the third week onwards the infrastructure is no longer created manually, but with the help of *Terraform* for setting up the development/staging/production environments on *Elastic Cloud Computing*. 
+In the end this toolkit gets extended with software that are capable of monitoring applications and servers, namely *Nagios* and the *ELK stack* which the apprentices first set up using *Terraform* and *Docker* and they start to monitor applications and the servers under these webapps.
+
 The toolset that the apprentices use daily consists of:
 
 - Amazon Web Services (AWS)

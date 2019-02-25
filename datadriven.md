@@ -47,7 +47,7 @@ Please only take this course if you are already familiar with the following tech
 
 We will use Python for almost every task. However, if you already know C++ or JAVA it will be much easier for you to find a job, as some Deep Learning libraries and Big Data technologies rely on these programming languages (JAVA is a good choice for Cloudera's current solutions). 
 
-The main difference between this class and the others is that there are will be no user stories, and most of the tasks will be required to be done by everyone, instead working together in parallel as a team, to ensure everyone learns the same things. Some of the tasks might not make sense first, but it will become clear by the end of the course why we are doing them. 
+The main difference between this project and the others is that there are will be no user stories, and most of the tasks will be required to be done by everyone, instead working together in parallel as a team, to ensure everyone learns the same things. Some of the tasks might not make sense first, but it will become clear by the end of the course why we are doing them. 
 
 Please note that as a Data Scientist / Data Engineer, the amount of possible technologies/models/domain knowledge to learn is **infinite**. 
 No one knows everything in this field, so bright people work together to come up with solutions for the companies. 

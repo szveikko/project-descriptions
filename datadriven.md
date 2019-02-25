@@ -5,7 +5,7 @@
 Students will learn the basics of Data Science and Data Engineering by learning Python, writing code for data mining, manipulating large datasets and creating their own Machine Learning models from scratch.  
 At the end of the course they will be able to create their very own, personalized Movie recommendation system, Netflox. 
 
-More and more data is generated every day and therefor there is an even bigger need for specialists who can spot the patterns and turn that data into useful information. 
+More and more data is generated every day and therefore there is an even bigger need for specialists who can spot the patterns and turn that data into useful information. 
 Data related jobs are among the highest paying ones, and with the advancements in Deep Learning, AI technologies are more hyped than ever.
 
 ## Technologies

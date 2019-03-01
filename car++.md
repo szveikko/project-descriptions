@@ -51,16 +51,29 @@ which RGB sensors sees the line. After this key feature is done, the project mig
 ![Obstacle avoidance](resource/image/obstacle_avoidance_real.jpg) ![Obstacle avoidance](resource/image/obstacle_avoidance.jpg)
 
 With this approach the key feature of the car that it's able to follow a route blocked by obstacles at both sides by
-constantly checking which ultrasonic sensor sees the obstacle closer. After this key feature is done, the project might
+constantly checking the distance of the walls with LIDAR. After this key feature is done, the project might
 go towards more complicated features:
 
 * Receive commands via bluetooth
-* Bypass obstacle in front of the car 
-* Indicate turn with the LEDs when bypassing obstacle
-* Stop if there is not enough space to bypass the obstacle
-* Light break light when stopping
-* Perceive parking spot
-* Parallel parking to a parking spot that's big enough
+* Different speed on wider and thicker roads
+* Follow track in reverse
+* Stop in case there is an obstacle ahead
+* Continue route if obstacle is removed
+* Light break lights when slowing
+* Find exits in a graph(built by walls) with no cycles with breadth-first search
+* Go for the nearest exit in a graph that the car already traversed
+* Find exits in a graph with cycles
+* Go for the nearest exit in a graph that the car already traversed
+* Indicate turn with the LEDs when turning at a graph node.
+
+## Milestones
+
+| Week | Milestone                                                                      |
+| -----|:------------------------------------------------------------------------------:|
+| 2    | Hardwares are working well                                                     |
+| 4    | Data structures and complete interfaces for hardwares                          |
+| 5    | The car is able to follow a single track having curves                         |
+| 7    | The car is able to discover a whole track with crossroads, exits and dead ends |
 
 ## Hardwares
 

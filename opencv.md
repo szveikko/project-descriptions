@@ -13,3 +13,13 @@ In this project we are using C++ to work with the OpenCV library. First the appr
  -  C++
  -  Google Test
  
+## Milestones
+
+Since there are typically more teams working, there is two different ways after week 4.
+
+ -  Week 1: project setup
+ -  Week 2 and 3: basic image processing
+ -  Week 4: advanced image processing
+ -  Week 5 and 6:
+   -  detecting and reading the speed limit from signs and controlling an rc car using that
+   -  object classification and detection
